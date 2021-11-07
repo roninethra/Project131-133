@@ -1,0 +1,26 @@
+.heading
+{
+font-size: 30px;
+margin: 0px;
+background-color: orange;
+width: 75%;
+margin: 15px;
+padding: 15px;
+border-radius: 20px;
+}
+
+#status
+{
+font-size: 18px;
+background-color: lightskyblue;
+width: 25%;
+margin: 15px;
+padding: 15px;
+border-radius: 20px;
+}
+
+body{
+    background-color: navy;
+    background-position: center;
+    background-size: cover;
+}
